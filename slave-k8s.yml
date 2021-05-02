@@ -1,0 +1,4 @@
+- hosts: localhost
+  roles:
+  - role: worker_node
+    kube_join_command: "kubeadm join 52.77.238.230:6443 --token xcuhnr.17t1l87x059lf2wq --discovery-token-ca-cert-hash sha256:0ebdacb80e950307a1b83178f23c704f2b6750bcad8640f66a210c25d529aa99 "

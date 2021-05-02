@@ -1,0 +1,4 @@
+- hosts: master_node
+  roles:
+  - role: master_node
+    control_plane_endpoint_ip: 52.77.238.230
