@@ -106,7 +106,7 @@ SSH access to all nodes
 
 bash
 Copy code
-git clone https://github.com/your-username/multicloudstrategy-kubernetescluster.git
+git clone https://github.com/Moiz-Ali-Moomin/multicloudstrategy-kubernetescluster.git
 cd multicloudstrategy-kubernetescluster
 
 3️⃣ Update Ansible inventory
